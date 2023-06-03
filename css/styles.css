@@ -472,20 +472,16 @@ img {
   margin-bottom: 72px;
 }
 .gallery-item {
-  border: 1px solid #e7e9fc;
-  border-radius: 4px;
-  background: #f4f4fd;
-  padding: 12px 24px;
 }
 .btn-container {
-  padding: 12px 24px 12px;
-  border: 1px solid #e7e9fc;
-  border-radius: 4px;
 }
 .gallery-btn-accent {
   font-family: "Roboto", sans-serif;
   color: #4d5ae5;
   background-color: #f4f4fd;
+  padding: 12px 24px 12px;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
 }
 .gallery-btn-accent:hover {
   color: #ffffff;
@@ -499,9 +495,6 @@ img {
   font-family: "Roboto", sans-serif;
   color: #4d5ae5;
   background-color: #f4f4fd;
-  padding: 12px 24px 12px;
-  border: 1px solid #e7e9fc;
-  border-radius: 4px;
 }
 .gallery-btn-accent:hover {
   color: #ffffff;
@@ -518,9 +511,6 @@ img {
   font-family: "Roboto", sans-serif;
   color: #4d5ae5;
   background-color: #f4f4fd;
-  padding: 12px 24px 12px;
-  border: 1px solid #e7e9fc;
-  border-radius: 4px;
 }
 
 /*--------Portfolio gallery-img-----------*/
