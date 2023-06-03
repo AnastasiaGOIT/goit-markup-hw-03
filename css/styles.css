@@ -187,12 +187,12 @@ img {
 /*---------Hero-----------*/
 
 .hero {
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .hero-container {
   max-width: 1158px;
   background: #2e2f42;
-  padding-top: 188px;
-  padding-bottom: 188px;
 }
 .hero-title {
   font-weight: 700;
@@ -274,6 +274,7 @@ img {
 }
 
 .offer {
+  padding-top: 120px;
   padding-bottom: 120px;
 }
 .offer-title {
@@ -448,14 +449,14 @@ img {
 }
 /*--------Portfolio gallery-----------*/
 .gallery-container {
-  padding-top: 96px;
-  padding-bottom: 120px;
 }
 
 .list {
   list-style: none;
 }
 .gallery {
+  padding-top: 96px;
+  padding-bottom: 120px;
 }
 .gallery-list {
   display: flex;
@@ -467,6 +468,7 @@ img {
   justify-content: center;
   align-items: center;
   padding: 12px 24px;
+  margin-bottom: 72px;
 }
 .gallery-item {
   border: 1px solid #e7e9fc;
@@ -493,6 +495,9 @@ img {
   font-family: "Roboto", sans-serif;
   color: #4d5ae5;
   background-color: #f4f4fd;
+  padding: 12px 24px 12px;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
 }
 .gallery-btn-accent:hover {
   color: #ffffff;
