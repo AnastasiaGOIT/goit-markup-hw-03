@@ -302,6 +302,7 @@ img {
 }
 .team {
   padding-bottom: 120px;
+  padding-top: 120px;
 }
 .team-title {
   font-weight: 700;
@@ -477,6 +478,9 @@ img {
   padding: 12px 24px;
 }
 .btn-container {
+  padding: 12px 24px 12px;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
 }
 .gallery-btn-accent {
   font-family: "Roboto", sans-serif;
