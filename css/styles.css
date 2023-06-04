@@ -441,7 +441,7 @@ img {
 .header-address-contact {
 }
 /*--------Portfolio gallery-----------*/
-.gallery-container {
+.container.gallery-container {
   padding-top: 96px;
   padding-bottom: 120px;
 }
