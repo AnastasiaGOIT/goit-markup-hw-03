@@ -476,10 +476,12 @@ img {
 .gallery-btn-accent:hover {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
 }
 .gallery-btn-accent:focus {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
 }
 .gallery-btn {
   font-family: "Roboto", sans-serif;
