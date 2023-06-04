@@ -442,14 +442,15 @@ img {
 }
 /*--------Portfolio gallery-----------*/
 .gallery-container {
+  padding-top: 96px;
+  padding-bottom: 120px;
 }
 .list {
   list-style: none;
 }
 .gallery {
-  padding-top: 96px;
-  padding-bottom: 120px;
 }
+
 .gallery-list {
   display: flex;
   gap: 24px;
