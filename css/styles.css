@@ -131,8 +131,6 @@ img {
 }
 
 .header-menu-list {
-  display: flex;
-  gap: 40px;
 }
 .header-menu-link {
   font-weight: 500;
@@ -323,13 +321,6 @@ img {
   border-radius: 0px 0px 4px 4px;
 }
 .team-container-subtitle {
-  width: 232px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
-  flex-grow: 0;
   padding: 32px 16px;
 }
 .team-name {
@@ -454,12 +445,7 @@ img {
 .gallery-list {
   display: flex;
   gap: 24px;
-  width: calc((100% - 24) / 5);
-  box-sizing: border-box;
-  flex-direction: row;
   justify-content: center;
-  align-items: center;
-  padding: 12px 24px;
   margin-bottom: 72px;
 }
 .gallery-item {
