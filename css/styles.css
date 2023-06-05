@@ -432,7 +432,8 @@ img {
 .header-address-contact {
 }
 /*--------Portfolio gallery-----------*/
-.container .gallery {
+
+.container.gallery-container {
   padding-top: 96px;
   padding-bottom: 120px;
 }
