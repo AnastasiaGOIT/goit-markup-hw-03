@@ -432,12 +432,11 @@ img {
 .header-address-contact {
 }
 /*--------Portfolio gallery-----------*/
-.container.gallery {
+.gallery {
   padding-top: 96px;
   padding-bottom: 120px;
 }
-.container.gallery-container {
-}
+
 .list {
   list-style: none;
 }
