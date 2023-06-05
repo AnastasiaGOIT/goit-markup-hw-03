@@ -442,13 +442,13 @@ img {
 }
 /*--------Portfolio gallery-----------*/
 .container.gallery-container {
-  padding-top: 96px;
-  padding-bottom: 120px;
 }
 .list {
   list-style: none;
 }
 .gallery {
+  padding-top: 96px;
+  padding-bottom: 120px;
 }
 
 .gallery-list {
